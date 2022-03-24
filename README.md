@@ -36,4 +36,7 @@
 
 ![SQL SERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![MY SQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
-![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
+![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white)&nbsp;

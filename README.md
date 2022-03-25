@@ -16,6 +16,7 @@
 ### Minhas experiencias 🙌
 - Analista de Sistemas Pleno - 2020-Atualmente
 - Desenvolvedor Delphi Pleno - 2016-2020
+- Técnico de redes N2 - 2014-2015
 
 ### 🛠 &nbsp;Tecnologias que já trabalhei e/ou estudei
 

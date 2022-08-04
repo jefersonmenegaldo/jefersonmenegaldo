@@ -14,7 +14,8 @@
 👨‍💻 Gosto muito das tecnologias Delphi e .Net </br>
 
 ### Minhas experiencias 🙌
-- Analista de Sistemas Pleno - 2020-Atualmente
+- Desenvolvedor Delphi Pleno - 2022-Atualmente
+- Analista de Sistemas Pleno - 2020-2022
 - Desenvolvedor Delphi Pleno - 2016-2020
 - Técnico de redes N2 - 2014-2015
 

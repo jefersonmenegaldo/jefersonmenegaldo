@@ -11,10 +11,9 @@
 
 ### Sobre Mim 🚀
 🌱 Eu sou analista e desenvolvedor de software. </br>
-👨‍💻 Gosto muito das tecnologias Delphi e .Net </br>
 
 ### Minhas experiencias 🙌
-- Desenvolvedor Delphi Pleno - 2022-Atualmente
+- Desenvolvedor Back-end Php e Delphi Pleno - 2022-Atualmente
 - Analista de Sistemas Pleno - 2020-2022
 - Desenvolvedor Delphi Pleno - 2016-2020
 - Técnico de redes N2 - 2014-2015

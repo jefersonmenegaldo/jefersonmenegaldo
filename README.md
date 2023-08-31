@@ -10,7 +10,7 @@
 <br />
 
 ### Sobre Mim 🚀
-🌱 Eu sou analista e desenvolvedor de software. </br>
+🌱 Desenvolvedor de software. </br>
 
 ### Minhas experiencias 🙌
 - Desenvolvedor Back-end Php e Delphi Pleno - 2022-Atualmente
@@ -22,11 +22,12 @@
 
 ![Delphi](https://img.shields.io/badge/-Delphi_RAD_Studio-B22222?style=flat&logo=delphi)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=fLAT&logo=dotnet)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

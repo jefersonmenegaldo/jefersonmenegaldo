@@ -12,14 +12,6 @@
 ### Sobre Mim 🚀
 🌱 Desenvolvedor de software. </br>
 
-### Minhas experiencias 🙌
-- Desenvolvedor Back-end Php e Delphi Pleno - 2022-Atualmente
-- Analista de Sistemas Pleno - 2020-2022
-- Desenvolvedor Delphi Pleno - 2016-2020
-- Técnico de redes N2 - 2014-2015
-
-### 🛠 &nbsp;Tecnologias que já trabalhei e/ou estudei
-
 ![Delphi](https://img.shields.io/badge/-Delphi_RAD_Studio-B22222?style=flat&logo=delphi)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=fLAT&logo=dotnet)&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
